@@ -6,10 +6,12 @@ body{
     font-size: 50 px;
     color: azure;
     box-shadow: 10px 10px 5px, color( white);
+    text-indent: 20px;
 
 }
 
 h1 {
+    text-indent: 20px;
     margin-bottom: 40px; /* Ajuste a margem inferior conforme necessário */
     border-radius: 50px , black;
     box-shadow: 300px black;
@@ -17,7 +19,13 @@ h1 {
 }      
       
 h2 {
+    text-indent: 20px;
         padding-top: 5px; /* Ajuste o espaçamento superior conforme necessário */
         margin-top: 100px, black; /* Ajuste a margem superior conforme necessário */
 
   }
+
+  .conteudo p {
+    text-indent: 30px; /* Ajuste o valor conforme necessário para o recuo desejado */
+  }
+  
